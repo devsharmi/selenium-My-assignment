@@ -1,0 +1,20 @@
+package week1.day2;
+
+public class datatype {
+
+	public static void main(String[] args) {
+float browserVersion = 20.f;
+		String browserName = "Firefox";
+		boolean pageLoaded = true;
+		int noOfBrowser = 10;
+		char browserLogo = 'c';
+		
+		System.out.println(browserVersion);
+		System.out.println(browserName);
+		System.out.println(pageLoaded);
+		System.out.println(noOfBrowser);
+		System.out.println(browserLogo);
+	}
+
+}
+
