@@ -1,0 +1,22 @@
+package week1.day2;
+
+public class LearnForLoop {
+
+	public static void main(String[] args) {
+ int Range=50;
+		int a= 100, b =20;
+		int ab;
+		System.out.println("The Fibonacci series are");
+		for (int i = 0; i<Range	; i++) {
+		ab = a+b;
+		System.out.println("C");
+		a=b;
+		b=ab;
+	
+		}
+		
+	}
+}
+
+
+
