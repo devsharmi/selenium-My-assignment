@@ -1,0 +1,18 @@
+package week1.day2;
+
+public class LearnIfElse {
+
+	public static void main(String[] args) {
+int Paitents =10;
+	if (Paitents<25) {
+		System.out.println("The Paients is Positive");
+	} 
+	else if(Paitents>25 ){
+System.out.println("The Paitents is Negative");
+	}
+
+	else {
+		System.out.println("The paitents is netural");
+	}
+	}
+}
